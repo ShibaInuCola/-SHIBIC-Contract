@@ -1,2 +1,2 @@
 # -SHIBIC-Contract
-The Shiba Inu Cola smart contract.
+Shiba Inu Cola Smart Contract.
